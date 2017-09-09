@@ -1,0 +1,17 @@
+Ind,Ops,Dinero,Rent,Benef,OutBB,MeanDinOps
+INVERTIR:ANA - [Timestamp('2017-08-25 17:36:00')] - 61.99 - 0.224713663494 - Salida: 75.92
+KO: ACX - [Timestamp('2017-08-25 17:36:00')]
+INVERTIR:ACS - [Timestamp('2017-08-25 17:36:00')] - 19.31 - 0.284153288452 - Salida: 24.797
+KO: APAM - [Timestamp('2017-08-25 17:36:00')]
+KO: A3M - [Timestamp('2017-08-25 17:36:00')]
+KO: SAB - [Timestamp('2017-08-25 17:36:00')]
+INVERTIR:SAN - [Timestamp('2017-08-25 17:36:00')] - 3.31 - 0.273111782477 - Salida: 4.214
+INVERTIR:BBVA - [Timestamp('2017-08-25 17:36:00')] - 5.241 - 0.207593970616 - Salida: 6.329
+KO: BAIN - [Timestamp('2017-07-06 17:36:00')]
+KO: FCC - [Timestamp('2017-08-25 17:36:00')]
+INVERTIR:GAS - [Timestamp('2017-08-25 17:36:00')] - 15.14 - 0.211955085865 - Salida: 18.349
+INVERTIR:GCO - [Timestamp('2017-08-25 17:36:00')] - 23.28 - 0.334278350515 - Salida: 31.062
+INVERTIR:IAG - [Timestamp('2017-08-25 17:36:00')] - 6.082 - 0.302696481421 - Salida: 7.923
+KO: TL5 - [Timestamp('2017-08-25 17:36:00')]
+KO: TEF - [Timestamp('2017-08-25 17:36:00')]
+KO: VOC - [Timestamp('2017-08-25 17:36:00')]

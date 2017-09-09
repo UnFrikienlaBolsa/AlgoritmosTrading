@@ -1,0 +1,20 @@
+KO - Prueba de funcionamiento A3M ultimo dia cotizacion: 2017-09-08T17:36:00.000000000 valor: 8.83
+KO - Prueba de funcionamiento ADZ ultimo dia cotizacion: 2017-09-08T17:36:00.000000000 valor: 4.98
+KO - Prueba de funcionamiento CBAV ultimo dia cotizacion: 2017-09-08T17:36:00.000000000 valor: 8.54
+KO - Prueba de funcionamiento BIO ultimo dia cotizacion: 2017-09-08T17:36:00.000000000 valor: 0.51
+-----------> INDICE: MDF
+--> CUENTA ARRAY: 150
+Cierre Evaluar -> 0.6
+% Ganacia Predict -> 0.425299414442
+('FINAL', 'MDF', 0, 1, '0')
+**** INVERTIR MDF<br />
+-----> -----------> INDICE: MDF<br />--> CUENTA ARRAY: 150<br />Cierre Evaluar -> 0.6<br />Ultimo Dia Cotizacion -> 2017-09-08T17:36:00.000000000<br />% Ganacia Predict -> 0.425299414442<br />% Porcentaje -> 3,5% en 5 dias<br />
+-----------> INDICE: LBK
+--> CUENTA ARRAY: 150
+Cierre Evaluar -> 0.804
+% Ganacia Predict -> 0.340364833908
+('FINAL', 'LBK', 0, 1, '0')
+**** INVERTIR LBK<br />
+-----> -----------> INDICE: LBK<br />--> CUENTA ARRAY: 150<br />Cierre Evaluar -> 0.804<br />Ultimo Dia Cotizacion -> 2017-09-08T17:36:00.000000000<br />% Ganacia Predict -> 0.340364833908<br />% Porcentaje -> 3,5% en 5 dias<br />
+KO - Prueba de funcionamiento OHL ultimo dia cotizacion: 2017-09-08T17:36:00.000000000 valor: 3.55
+KO - Prueba de funcionamiento TL5 ultimo dia cotizacion: 2017-09-08T17:36:00.000000000 valor: 9.438

@@ -1,0 +1,4 @@
++++ INVERTIR en OHL - fecha -> 2017-09-08 - compro -> 3.42859826024 - venta -> 3,5% o 6 dias
++++ INVERTIR en ECR - fecha -> 2017-09-08 - compro -> 2.81549010776 - venta -> 3,5% o 6 dias
++++ INVERTIR en EZE - fecha -> 2017-09-08 - compro -> 0.7165855782 - venta -> 3,5% o 6 dias
++++ INVERTIR en SLR - fecha -> 2017-09-08 - compro -> 1.40196461881 - venta -> 3,5% o 6 dias
