@@ -1,0 +1,21 @@
+Ind,Ops,Dinero,Rent,Benef,BenefXOps,SalidaLost,SalidaWin
+KO en SAB - rsi -> 36.893146442  diff -> -0.0224
+KO en COL - rsi -> 56.1585961486  diff -> -0.0210461538462
+KO en ECR - rsi -> 37.7583675885  diff -> 0.00655384615384
+KO en IAG - rsi -> 39.8185590381  diff -> -0.0869846153846
+KO en NEA - rsi -> 53.0649912012  diff -> 0.0146923076923
+KO en APAM - rsi -> 51.9380692886  diff -> 0.830846153846
+KO en MRL - rsi -> 50.9728106998  diff -> 0.0516153846154
+KO en ACX - rsi -> 52.0333344304  diff -> 0.339769230769
++++ INVERTIR en AENA - rsi -> 34.3628055996  diff -> -1.56153846154
+		 Entrar en: [ 159.95]
+		 Salida Win: [ 173.54575]   porcentaje de:0.085
+		 Salida Lost: [ 151.9525]   porcentaje de:0.05
+		 Salida +5 dias: [Timestamp('2017-08-29 17:36:00')]
++++ INVERTIR en BKT - rsi -> 33.3613864893  diff -> -0.0957384615385
+		 Entrar en: [ 7.842]
+		 Salida Win: [ 8.50857]   porcentaje de:0.085
+		 Salida Lost: [ 7.4499]   porcentaje de:0.05
+		 Salida +5 dias: [Timestamp('2017-08-29 17:36:00')]
+KO en APAM - rsi -> 51.9380692886  diff -> 0.830846153846
+KO en TUB - rsi -> 47.086162383  diff -> 0.0101538461538
